@@ -1,6 +1,7 @@
 # Instagram-API-Android
-<h5>Instagram API for android</h5>
-##Terms and conditions
+Instagram API for android
+
+## Terms and conditions
 - Use this Api at your own risk.
 - Please don't use this library for sending spam or massive direct messages.
 
