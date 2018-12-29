@@ -1,5 +1,5 @@
 # Instagram-API-Android
-**Instagram API for android**
+<h4>Instagram API for android</h4>
 
 ## How to
 **Step 1.** Add the JitPack repository to your build file.
