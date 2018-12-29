@@ -23,7 +23,7 @@ dependencies {
 	implementation 'com.github.SeanP7:Instagram-API-Android:1.0.0'
 }
   ```
-  ## TODO
+  ### TODO
 - [ ] ChangeProfilePicture
 - [ ] markStoryMediaSeen
 - [ ] Upload photo, video, album and story
