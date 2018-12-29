@@ -20,6 +20,6 @@ allprojects {
  **Step 2.** Add the dependency
   ```
 dependencies {
-	implementation 'com.github.SeanP7:Instagram-API-Android:Tag'
+	implementation 'com.github.SeanP7:Instagram-API-Android:1.0.0'
 }
   ```
