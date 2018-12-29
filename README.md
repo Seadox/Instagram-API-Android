@@ -1,5 +1,8 @@
 # Instagram-API-Android
-<h4>Instagram API for android</h4>
+<h5>Instagram API for android</h5>
+## Terms and conditions
+- Use this Api at your own risk.
+- Please don't use this library for sending spam or massive direct messages.
 
 ## How to
 **Step 1.** Add the JitPack repository to your build file.
