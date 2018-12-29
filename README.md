@@ -1,5 +1,5 @@
 # Instagram-API-Android
-<h5><b>Instagram API for android</b></h5>
+<h9><b>Instagram API for android</b></h9>
 
 ## Terms and conditions
 - Use this Api at your own risk.
